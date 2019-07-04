@@ -1,3 +1,3 @@
 # Slack
 
-<img src="./assets/demo.gif" height="300" />
+<img src="./assets/demo.gif" height="400" />
