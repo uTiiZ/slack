@@ -1,3 +1,3 @@
 # Slack
 
-![](assets/demo.gif)
+![](assets/demo.gif | height=200)
