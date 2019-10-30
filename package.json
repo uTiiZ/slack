@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "expo": "^33.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "match-all": "^1.2.5",
     "moment": "^2.24.0",
     "react": "16.8.3",
